@@ -13,7 +13,6 @@ I implemented custom instructions `vload`, `vstore`, and `vadd` for simplicity.
 
 ## Project Structure
 
-The project contains the following files and directories:
 
 ```
 RISC-V Basic SIMD/
